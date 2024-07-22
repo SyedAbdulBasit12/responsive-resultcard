@@ -44,7 +44,7 @@ table.name td{
         }
         @media screen and (min-width: 304px) and (max-width: 530px){
             body{
-                margin: 23px;
+                margin: 9px;
             }
             .image img {
                 width: 30%;
