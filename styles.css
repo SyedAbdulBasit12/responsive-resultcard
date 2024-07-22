@@ -42,7 +42,7 @@ table.name td{
             font-size: larger;
             text-decoration: underline;
         }
-                @media screen and (min-width: 340px) and (max-width: 530px){
+                @media screen and (min-width: 330px) and (max-width: 530px){
             body{
                 margin:6px;
             }
@@ -65,7 +65,7 @@ table.name td{
                 font-size: medium;
             }
             table{
-            width: 103%;
+            width: 100%;
             margin-left: 0;
             margin-right: 15px;
             margin-top: 0%;              
